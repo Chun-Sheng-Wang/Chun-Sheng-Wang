@@ -5,7 +5,14 @@ He also serves as the Director of the Library and Information Center at Jinwen U
 Additionally, he holds a concurrent position as an Associate Professor in the Department of Information Management at National Taiwan University.
 
 Reference websites:
-
-https://mm.just.edu.tw/home/?page_id=829
+<ol>
+<li>
+https://mm.just.edu.tw/home/?page_id=829 
+</li>
+<li>
 https://lis.just.edu.tw/p/412-1017-2959.php?Lang=zh-tw
+</li>
+<li>
 https://management.ntu.edu.tw/en/IM/faculty/teacher/sn/33
+</li>
+</ol>
