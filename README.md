@@ -10,7 +10,7 @@ Reference websites:
 https://mm.just.edu.tw/home/?page_id=829 
 </li>
 <li>
-https://lis.just.edu.tw/p/412-1017-2959.php?Lang=zh-tw
+https://lis.just.edu.tw/p/412-1017-2971.php?Lang=en 
 </li>
 <li>
 https://management.ntu.edu.tw/en/IM/faculty/teacher/sn/33
